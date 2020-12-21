@@ -1,0 +1,3 @@
+Hotkeys:
+JetPack: F
+More hotkeys coming soon ^^
