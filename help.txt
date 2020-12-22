@@ -1,3 +1,7 @@
 Hotkeys:
 JetPack: F
+MineplexFly: C
+LifeboatFly: Z
+CubeGlide: R
+the other with tabgui at the moment
 More hotkeys coming soon ^^
