@@ -3,5 +3,5 @@ JetPack: F
 MineplexFly: C
 LifeboatFly: Z
 CubeGlide: R
-the other with tabgui at the moment
+TabGUI: Tab
 More hotkeys coming soon ^^
